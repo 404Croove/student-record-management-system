@@ -37,4 +37,5 @@ The Student Record Management System (SRMS) is a console-based application desig
 4️⃣ Run the program using:
 python main.py
 
+## ▶️ Testing
 To test the program start by running it, multiple options would show up, choose task to be performed, example: Adding a student - You need to enter student ID, Name and class. You can check the final report by "Show Report" option.
